@@ -1,0 +1,6 @@
+c:/users/jesus alvino/source/repos/SearchFight/SearchFight.BusinessEntities/bin/Debug/SearchFight.BusinessEntities.dll
+c:/users/jesus alvino/source/repos/SearchFight/SearchFight.BusinessEntities/bin/Debug/SearchFight.BusinessEntities.pdb
+c:/users/jesus alvino/source/repos/SearchFight/SearchFight.BusinessEntities/obj/Debug/SearchFight.BusinessEntities.csprojResolveAssemblyReference.cache
+c:/users/jesus alvino/source/repos/SearchFight/SearchFight.BusinessEntities/obj/Debug/SearchFight.BusinessEntities.csproj.CoreCompileInputs.cache
+c:/users/jesus alvino/source/repos/SearchFight/SearchFight.BusinessEntities/obj/Debug/SearchFight.BusinessEntities.dll
+c:/users/jesus alvino/source/repos/SearchFight/SearchFight.BusinessEntities/obj/Debug/SearchFight.BusinessEntities.pdb
